@@ -10,6 +10,10 @@ https://www.coursera.org/learn/digital-transformation-of-megapolises
 
 Smart Cities – Management of Smart Urban Infrastructures
 https://www.coursera.org/learn/smart-cities
+https://iglus.org/smart-cities-mooc/
+
+Management of Urban Infrastructures – part 1
+https://www.coursera.org/learn/managing-urban-infrastructures-1
 
 
 ## Learn (Paid Courses)
