@@ -26,6 +26,8 @@ https://iglus.org/innovative-governance-of-large-urban-systems-mooc/
 Beyond Smart Cities: Emerging Design and Technology
 https://mit-online.getsmarter.com/presentations/lp/mit-beyond-smart-cities-online-short-course/
 
+Co-developing a real Smart City: planning for future of living
+https://store.bcu.ac.uk/short-courses/digital-transformation/codeveloping-a-real-smart-city-planning-for-future-of-living/codeveloping-a-real-smart-city-planning-for-future-of-living
 
 ## Events
 
