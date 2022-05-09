@@ -14,6 +14,7 @@ https://iglus.org/smart-cities-mooc/
 
 Management of Urban Infrastructures – part 1
 https://www.coursera.org/learn/managing-urban-infrastructures-1
+https://iglus.org/management-of-urban-infrastructures-mooc/
 
 
 ## Learn (Paid Courses)
