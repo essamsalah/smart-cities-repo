@@ -25,3 +25,23 @@ https://iglus.org/innovative-governance-of-large-urban-systems-mooc/
 ## Learn (Paid Courses)
 Beyond Smart Cities: Emerging Design and Technology
 https://mit-online.getsmarter.com/presentations/lp/mit-beyond-smart-cities-online-short-course/
+
+
+## Events
+
+## Thought Leaders
+
+## Books
+
+## Case Studies
+
+## Standards
+
+## International Bodies 
+
+## Certificates
+
+## Smart City Labs
+
+## Post Graduate Programs
+
