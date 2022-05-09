@@ -40,6 +40,7 @@ https://store.bcu.ac.uk/short-courses/digital-transformation/codeveloping-a-real
 ## Standards
 
 ## International Bodies 
+Smart Cities Council  https://www.smartcitiescouncil.com/
 
 ## Certificates
 
